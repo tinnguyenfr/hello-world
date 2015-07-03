@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-	int x
-	cout << x << endl;
+	int x;
+	cout << "Return: " << x << endl;
 }
