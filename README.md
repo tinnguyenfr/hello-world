@@ -9,3 +9,5 @@ I try to modify something.
 Modifies depuis Github.
 
 Mis a jour.
+
+Modifies depuis machine local.
