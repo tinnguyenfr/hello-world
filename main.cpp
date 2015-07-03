@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-	int x
+	int x;
 	cout << x << endl;
 }
