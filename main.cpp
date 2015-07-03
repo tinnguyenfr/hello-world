@@ -3,4 +3,6 @@
 #include <iostream>
 
 int main() {
+	int x
+	cout << x << endl;
 }
